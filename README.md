@@ -25,7 +25,7 @@ Faça download do sistema de controle de versão distribuído <br>
       <td>01</td>
       <td>Aula 1</td>
       <td align="center">
-        <a href="https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/01-visao-geral-do-curso-e-ferramentas.md">
+        <a href="https://github.com/PatrickRosa1/meu-projeto/blob/main/Aulas/Aula%201.md">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
         </a>
       </td>
@@ -34,7 +34,7 @@ Faça download do sistema de controle de versão distribuído <br>
       <td>02</td>
       <td>Aula 2</td>
       <td align="center">
-        <a href="https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/02-instalacao-configuracao-e-autenticacao.md">
+        <a href="https://github.com/PatrickRosa1/meu-projeto/blob/main/Aulas/Aula%202.md">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
         </a>
       </td>
@@ -43,7 +43,7 @@ Faça download do sistema de controle de versão distribuído <br>
       <td>03</td>
       <td>Aula 3</td>
       <td align="center">
-        <a href="https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md">
+        <a href="https://github.com/PatrickRosa1/meu-projeto/blob/main/Aulas/Aula%203.md">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
         </a>
       </td>    
@@ -52,7 +52,7 @@ Faça download do sistema de controle de versão distribuído <br>
       <td>04</td>
       <td>Aula 4</td>
       <td align="center">
-        <a href="https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/04-dicas-e-materiais-de-apoio.md">
+        <a href="https://github.com/PatrickRosa1/meu-projeto/blob/main/Aulas/Aula%204.md">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
         </a>
       </td>    
