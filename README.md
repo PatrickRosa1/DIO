@@ -61,9 +61,6 @@ Faça download do sistema de controle de versão distribuído <br>
   <tfoot></tfoot>
 </table>
  
-## Comandos importantes
-```
-git init
-```
+
 
 ## 🔍 Referências 
