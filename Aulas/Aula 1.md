@@ -8,9 +8,7 @@
 Os Sistemas de Controle de Versão (Version Control System - VCS), são softwares que controlam as versões de um arquivo ao longo do tempo. 
 
  
-  </tbody>
-  <tfoot></tfoot>
-</table>
+## Ferramentas
 
 ### Git
 Sistema de Controle de Versão Distribuído.
