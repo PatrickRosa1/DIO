@@ -61,6 +61,7 @@ Faça download do sistema de controle de versão distribuído <br>
   <tfoot></tfoot>
 </table>
  
-
+<h1>🔎 Referências</h1>
+Feito nas aulas da Dio com base no projeto da https://github.com/elidianaandrade.
 
 
