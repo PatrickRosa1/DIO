@@ -1,7 +1,6 @@
-<h1>
 
-     Versionamento de Código com Git e GitHub
-</h1>
+     #Versionamento de Código com Git e GitHub
+
 
 ## Primeiros Passos com Git e GitHub
 
